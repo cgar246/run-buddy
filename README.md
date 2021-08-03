@@ -12,3 +12,5 @@ https://cgar246.github.io/run-buddy/
 
 ## Contribution\
 Made with ❤️ by Christian Garcia
+
+###©️2019 Run Buddy, Inc
